@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/61a20f551cded3c692d3df38
+Content-Type: application/json
+
+{
+    "content": "is amazing v3",
+    "important": true
+}
